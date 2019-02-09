@@ -15,7 +15,7 @@
 		"' and u.password = '" . $_REQUEST['password'] . "'";
 
 	$result = $db->query($sql);
-
+	
 	if($result->num_rows == 1){
 		echo "true";
 	}else{
