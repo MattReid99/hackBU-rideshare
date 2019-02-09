@@ -1,11 +1,11 @@
 <?php	
-	echo "Here 1";
+
 	include("databaseConnect.php");
-	echo "Here 2";
+
 	$conn = new databaseConnect();
-	echo "Here 3";	
+
 	$db = $conn->connect();
-	echo "Here 4";
+
 
 	
 	
@@ -17,9 +17,9 @@
 	$result = $db->query($sql);
 
 	if($result->num_rows == 1){
-		return json_encode(true);
+		echo "true";
 	}else{
-		return json_encode(false);
+		echo "false";
 	}
 	
 
