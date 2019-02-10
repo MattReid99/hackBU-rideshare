@@ -1,0 +1,6 @@
+framework module Pods_hackBU_Rideshare {
+  umbrella header "Pods-hackBU-Rideshare-umbrella.h"
+
+  export *
+  module * { export * }
+}
