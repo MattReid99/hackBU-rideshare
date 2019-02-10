@@ -13,8 +13,34 @@
 		B53138D6220F5E5C00D0ADF8 /* hackBU_Rideshare.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B53138D4220F5E5C00D0ADF8 /* hackBU_Rideshare.xcdatamodeld */; };
 		B53138D8220F5E5C00D0ADF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B53138D7220F5E5C00D0ADF8 /* Assets.xcassets */; };
 		B53138DB220F5E5C00D0ADF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B53138D9220F5E5C00D0ADF8 /* LaunchScreen.storyboard */; };
-		B53138E6220F5E5C00D0ADF8 /* hackBU_RideshareTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53138E5220F5E5C00D0ADF8 /* hackBU_RideshareTests.swift */; };
-		B53138F1220F5E5C00D0ADF8 /* hackBU_RideshareUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53138F0220F5E5C00D0ADF8 /* hackBU_RideshareUITests.swift */; };
+		B5313907220F6B3D00D0ADF8 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5313906220F6B3D00D0ADF8 /* MapViewController.swift */; };
+		B5313909220F745300D0ADF8 /* Globals.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5313908220F745300D0ADF8 /* Globals.swift */; };
+		B531390D220F8CA000D0ADF8 /* icons8-paper-plane-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B531390B220F8CA000D0ADF8 /* icons8-paper-plane-filled-100.png */; };
+		B531390E220F8CA000D0ADF8 /* icons8-lock-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B531390C220F8CA000D0ADF8 /* icons8-lock-100.png */; };
+		B5313910220F8EAB00D0ADF8 /* icons8-steering-wheel-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B531390F220F8EAB00D0ADF8 /* icons8-steering-wheel-filled-100.png */; };
+		B5416D612210082900F1FE2B /* RideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5416D602210082900F1FE2B /* RideViewController.swift */; };
+		B5416D652210147000F1FE2B /* RideListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5416D642210147000F1FE2B /* RideListViewController.swift */; };
+		B5416D67221025B700F1FE2B /* icons8-garage-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B5416D66221025B600F1FE2B /* icons8-garage-filled-100.png */; };
+		B568855722108D9700B2E159 /* icons8-cycling-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B568855622108D9600B2E159 /* icons8-cycling-filled-100.png */; };
+		B59AC84B220F93E200F13D1B /* niteride-map.txt in Resources */ = {isa = PBXBuildFile; fileRef = B59AC84A220F93E200F13D1B /* niteride-map.txt */; };
+		B59AC84D220F945E00F13D1B /* icons8-marker-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC84C220F945E00F13D1B /* icons8-marker-100.png */; };
+		B59AC84F220F95BD00F13D1B /* icons8-region-filled-90.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC84E220F95BD00F13D1B /* icons8-region-filled-90.png */; };
+		B59AC851220F97C800F13D1B /* style.json in Resources */ = {isa = PBXBuildFile; fileRef = B59AC850220F97C800F13D1B /* style.json */; };
+		B59AC853220F993D00F13D1B /* icons8-menu-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC852220F993C00F13D1B /* icons8-menu-100.png */; };
+		B59AC855220F9FB400F13D1B /* locations.txt in Resources */ = {isa = PBXBuildFile; fileRef = B59AC854220F9FB400F13D1B /* locations.txt */; };
+		B59AC857220FA32300F13D1B /* icons8-location-filled-500.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC856220FA32300F13D1B /* icons8-location-filled-500.png */; };
+		B59AC859220FA93300F13D1B /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59AC858220FA93300F13D1B /* SignUpViewController.swift */; };
+		B59AC85B220FAD5300F13D1B /* icons8-undo-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC85A220FAD5300F13D1B /* icons8-undo-filled-100.png */; };
+		B59AC85D220FB48D00F13D1B /* icons8-map-editing-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC85C220FB48B00F13D1B /* icons8-map-editing-filled-100.png */; };
+		B59AC85F220FB49A00F13D1B /* icons8-marker-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC85E220FB49800F13D1B /* icons8-marker-100.png */; };
+		B59AC861220FB5FB00F13D1B /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59AC860220FB5FB00F13D1B /* SearchViewController.swift */; };
+		B59AC867220FC53B00F13D1B /* icons8-convertible-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC866220FC53A00F13D1B /* icons8-convertible-filled-100.png */; };
+		B59AC869220FC5B000F13D1B /* icons8-traffic-jam-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC868220FC5B000F13D1B /* icons8-traffic-jam-filled-100.png */; };
+		B59AC86B220FD3BB00F13D1B /* SearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59AC86A220FD3BB00F13D1B /* SearchCell.swift */; };
+		B59AC86D220FDA9700F13D1B /* icons8-christmas-star-filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC86C220FDA9700F13D1B /* icons8-christmas-star-filled-100.png */; };
+		B59AC86F220FFF3F00F13D1B /* icons8-marker-90-2.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC86E220FFF3E00F13D1B /* icons8-marker-90-2.png */; };
+		B59AC871220FFFBD00F13D1B /* icons8-map-pin-90.png in Resources */ = {isa = PBXBuildFile; fileRef = B59AC870220FFFBC00F13D1B /* icons8-map-pin-90.png */; };
+		CA33AA8DFA804868FFB995C8 /* Pods_hackBU_Rideshare.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22ED6F4BC0CA95283DF42A30 /* Pods_hackBU_Rideshare.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +61,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B53138CA220F5E5C00D0ADF8 /* hackBU-Rideshare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hackBU-Rideshare.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		22ED6F4BC0CA95283DF42A30 /* Pods_hackBU_Rideshare.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_hackBU_Rideshare.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0D82280F5E490EB51A130B0 /* Pods-hackBU-Rideshare.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hackBU-Rideshare.release.xcconfig"; path = "Pods/Target Support Files/Pods-hackBU-Rideshare/Pods-hackBU-Rideshare.release.xcconfig"; sourceTree = "<group>"; };
 		B53138CD220F5E5C00D0ADF8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B53138CF220F5E5C00D0ADF8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B53138D2220F5E5C00D0ADF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -43,12 +70,37 @@
 		B53138D7220F5E5C00D0ADF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B53138DA220F5E5C00D0ADF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B53138DC220F5E5C00D0ADF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B53138E1220F5E5C00D0ADF8 /* hackBU-RideshareTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hackBU-RideshareTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B53138E5220F5E5C00D0ADF8 /* hackBU_RideshareTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hackBU_RideshareTests.swift; sourceTree = "<group>"; };
-		B53138E7220F5E5C00D0ADF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B53138EC220F5E5C00D0ADF8 /* hackBU-RideshareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hackBU-RideshareUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B53138F0220F5E5C00D0ADF8 /* hackBU_RideshareUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hackBU_RideshareUITests.swift; sourceTree = "<group>"; };
-		B53138F2220F5E5C00D0ADF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5313904220F675700D0ADF8 /* hackBU-Rideshare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hackBU-Rideshare.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5313906220F6B3D00D0ADF8 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		B5313908220F745300D0ADF8 /* Globals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Globals.swift; sourceTree = "<group>"; };
+		B531390B220F8CA000D0ADF8 /* icons8-paper-plane-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-paper-plane-filled-100.png"; sourceTree = "<group>"; };
+		B531390C220F8CA000D0ADF8 /* icons8-lock-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-lock-100.png"; sourceTree = "<group>"; };
+		B531390F220F8EAB00D0ADF8 /* icons8-steering-wheel-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-steering-wheel-filled-100.png"; sourceTree = "<group>"; };
+		B5416D602210082900F1FE2B /* RideViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideViewController.swift; sourceTree = "<group>"; };
+		B5416D6222100C4C00F1FE2B /* hackBU-RideshareTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hackBU-RideshareTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5416D6322100C4C00F1FE2B /* hackBU-RideshareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hackBU-RideshareUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5416D642210147000F1FE2B /* RideListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideListViewController.swift; sourceTree = "<group>"; };
+		B5416D66221025B600F1FE2B /* icons8-garage-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-garage-filled-100.png"; sourceTree = "<group>"; };
+		B568855622108D9600B2E159 /* icons8-cycling-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-cycling-filled-100.png"; sourceTree = "<group>"; };
+		B59AC84A220F93E200F13D1B /* niteride-map.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "niteride-map.txt"; sourceTree = "<group>"; };
+		B59AC84C220F945E00F13D1B /* icons8-marker-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-marker-100.png"; sourceTree = "<group>"; };
+		B59AC84E220F95BD00F13D1B /* icons8-region-filled-90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-region-filled-90.png"; sourceTree = "<group>"; };
+		B59AC850220F97C800F13D1B /* style.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = style.json; sourceTree = "<group>"; };
+		B59AC852220F993C00F13D1B /* icons8-menu-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-menu-100.png"; sourceTree = "<group>"; };
+		B59AC854220F9FB400F13D1B /* locations.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = locations.txt; sourceTree = "<group>"; };
+		B59AC856220FA32300F13D1B /* icons8-location-filled-500.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-location-filled-500.png"; sourceTree = "<group>"; };
+		B59AC858220FA93300F13D1B /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		B59AC85A220FAD5300F13D1B /* icons8-undo-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-undo-filled-100.png"; sourceTree = "<group>"; };
+		B59AC85C220FB48B00F13D1B /* icons8-map-editing-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-map-editing-filled-100.png"; sourceTree = "<group>"; };
+		B59AC85E220FB49800F13D1B /* icons8-marker-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-marker-100.png"; path = "../../../../Downloads/icons8-marker-100.png"; sourceTree = "<group>"; };
+		B59AC860220FB5FB00F13D1B /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		B59AC866220FC53A00F13D1B /* icons8-convertible-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-convertible-filled-100.png"; sourceTree = "<group>"; };
+		B59AC868220FC5B000F13D1B /* icons8-traffic-jam-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-traffic-jam-filled-100.png"; sourceTree = "<group>"; };
+		B59AC86A220FD3BB00F13D1B /* SearchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCell.swift; sourceTree = "<group>"; };
+		B59AC86C220FDA9700F13D1B /* icons8-christmas-star-filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-christmas-star-filled-100.png"; sourceTree = "<group>"; };
+		B59AC86E220FFF3E00F13D1B /* icons8-marker-90-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-marker-90-2.png"; sourceTree = "<group>"; };
+		B59AC870220FFFBC00F13D1B /* icons8-map-pin-90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-map-pin-90.png"; sourceTree = "<group>"; };
+		BED7FCFE3D64FA39DA27299C /* Pods-hackBU-Rideshare.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hackBU-Rideshare.debug.xcconfig"; path = "Pods/Target Support Files/Pods-hackBU-Rideshare/Pods-hackBU-Rideshare.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA33AA8DFA804868FFB995C8 /* Pods_hackBU_Rideshare.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,56 +129,90 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		001CD3FA1BCF6F3EFBE9CECE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BED7FCFE3D64FA39DA27299C /* Pods-hackBU-Rideshare.debug.xcconfig */,
+				B0D82280F5E490EB51A130B0 /* Pods-hackBU-Rideshare.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		4EBB17477ED231144F6D995E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				22ED6F4BC0CA95283DF42A30 /* Pods_hackBU_Rideshare.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		B53138C1220F5E5C00D0ADF8 = {
 			isa = PBXGroup;
 			children = (
 				B53138CC220F5E5C00D0ADF8 /* hackBU-Rideshare */,
-				B53138E4220F5E5C00D0ADF8 /* hackBU-RideshareTests */,
-				B53138EF220F5E5C00D0ADF8 /* hackBU-RideshareUITests */,
-				B53138CB220F5E5C00D0ADF8 /* Products */,
+				001CD3FA1BCF6F3EFBE9CECE /* Pods */,
+				4EBB17477ED231144F6D995E /* Frameworks */,
+				B5313904220F675700D0ADF8 /* hackBU-Rideshare.app */,
+				B5416D6222100C4C00F1FE2B /* hackBU-RideshareTests.xctest */,
+				B5416D6322100C4C00F1FE2B /* hackBU-RideshareUITests.xctest */,
 			);
-			sourceTree = "<group>";
-		};
-		B53138CB220F5E5C00D0ADF8 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				B53138CA220F5E5C00D0ADF8 /* hackBU-Rideshare.app */,
-				B53138E1220F5E5C00D0ADF8 /* hackBU-RideshareTests.xctest */,
-				B53138EC220F5E5C00D0ADF8 /* hackBU-RideshareUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		B53138CC220F5E5C00D0ADF8 /* hackBU-Rideshare */ = {
 			isa = PBXGroup;
 			children = (
+				B59AC84A220F93E200F13D1B /* niteride-map.txt */,
+				B531390A220F8C8500D0ADF8 /* images */,
+				B5313905220F68BC00D0ADF8 /* ViewControllers */,
 				B53138CD220F5E5C00D0ADF8 /* AppDelegate.swift */,
-				B53138CF220F5E5C00D0ADF8 /* ViewController.swift */,
 				B53138D1220F5E5C00D0ADF8 /* Main.storyboard */,
 				B53138D7220F5E5C00D0ADF8 /* Assets.xcassets */,
 				B53138D9220F5E5C00D0ADF8 /* LaunchScreen.storyboard */,
 				B53138DC220F5E5C00D0ADF8 /* Info.plist */,
 				B53138D4220F5E5C00D0ADF8 /* hackBU_Rideshare.xcdatamodeld */,
+				B5313908220F745300D0ADF8 /* Globals.swift */,
+				B59AC850220F97C800F13D1B /* style.json */,
+				B59AC854220F9FB400F13D1B /* locations.txt */,
+				B59AC86A220FD3BB00F13D1B /* SearchCell.swift */,
 			);
 			path = "hackBU-Rideshare";
 			sourceTree = "<group>";
 		};
-		B53138E4220F5E5C00D0ADF8 /* hackBU-RideshareTests */ = {
+		B5313905220F68BC00D0ADF8 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				B53138E5220F5E5C00D0ADF8 /* hackBU_RideshareTests.swift */,
-				B53138E7220F5E5C00D0ADF8 /* Info.plist */,
+				B53138CF220F5E5C00D0ADF8 /* ViewController.swift */,
+				B5313906220F6B3D00D0ADF8 /* MapViewController.swift */,
+				B59AC858220FA93300F13D1B /* SignUpViewController.swift */,
+				B59AC860220FB5FB00F13D1B /* SearchViewController.swift */,
+				B5416D602210082900F1FE2B /* RideViewController.swift */,
+				B5416D642210147000F1FE2B /* RideListViewController.swift */,
 			);
-			path = "hackBU-RideshareTests";
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
-		B53138EF220F5E5C00D0ADF8 /* hackBU-RideshareUITests */ = {
+		B531390A220F8C8500D0ADF8 /* images */ = {
 			isa = PBXGroup;
 			children = (
-				B53138F0220F5E5C00D0ADF8 /* hackBU_RideshareUITests.swift */,
-				B53138F2220F5E5C00D0ADF8 /* Info.plist */,
+				B568855622108D9600B2E159 /* icons8-cycling-filled-100.png */,
+				B5416D66221025B600F1FE2B /* icons8-garage-filled-100.png */,
+				B59AC870220FFFBC00F13D1B /* icons8-map-pin-90.png */,
+				B59AC86E220FFF3E00F13D1B /* icons8-marker-90-2.png */,
+				B59AC86C220FDA9700F13D1B /* icons8-christmas-star-filled-100.png */,
+				B59AC868220FC5B000F13D1B /* icons8-traffic-jam-filled-100.png */,
+				B59AC866220FC53A00F13D1B /* icons8-convertible-filled-100.png */,
+				B59AC85E220FB49800F13D1B /* icons8-marker-100.png */,
+				B59AC85C220FB48B00F13D1B /* icons8-map-editing-filled-100.png */,
+				B59AC85A220FAD5300F13D1B /* icons8-undo-filled-100.png */,
+				B59AC856220FA32300F13D1B /* icons8-location-filled-500.png */,
+				B59AC852220F993C00F13D1B /* icons8-menu-100.png */,
+				B59AC84E220F95BD00F13D1B /* icons8-region-filled-90.png */,
+				B59AC84C220F945E00F13D1B /* icons8-marker-100.png */,
+				B531390F220F8EAB00D0ADF8 /* icons8-steering-wheel-filled-100.png */,
+				B531390C220F8CA000D0ADF8 /* icons8-lock-100.png */,
+				B531390B220F8CA000D0ADF8 /* icons8-paper-plane-filled-100.png */,
 			);
-			path = "hackBU-RideshareUITests";
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,9 +222,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B53138F5220F5E5C00D0ADF8 /* Build configuration list for PBXNativeTarget "hackBU-Rideshare" */;
 			buildPhases = (
+				2B555F428FA11BD42220CC56 /* [CP] Check Pods Manifest.lock */,
 				B53138C6220F5E5C00D0ADF8 /* Sources */,
 				B53138C7220F5E5C00D0ADF8 /* Frameworks */,
 				B53138C8220F5E5C00D0ADF8 /* Resources */,
+				5A49263D03A2528D7E82DD52 /* [CP] Embed Pods Frameworks */,
+				86322478E41A79FB7D2FCD7A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -145,7 +235,7 @@
 			);
 			name = "hackBU-Rideshare";
 			productName = "hackBU-Rideshare";
-			productReference = B53138CA220F5E5C00D0ADF8 /* hackBU-Rideshare.app */;
+			productReference = B5313904220F675700D0ADF8 /* hackBU-Rideshare.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B53138E0220F5E5C00D0ADF8 /* hackBU-RideshareTests */ = {
@@ -163,7 +253,7 @@
 			);
 			name = "hackBU-RideshareTests";
 			productName = "hackBU-RideshareTests";
-			productReference = B53138E1220F5E5C00D0ADF8 /* hackBU-RideshareTests.xctest */;
+			productReference = B5416D6222100C4C00F1FE2B /* hackBU-RideshareTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		B53138EB220F5E5C00D0ADF8 /* hackBU-RideshareUITests */ = {
@@ -181,7 +271,7 @@
 			);
 			name = "hackBU-RideshareUITests";
 			productName = "hackBU-RideshareUITests";
-			productReference = B53138EC220F5E5C00D0ADF8 /* hackBU-RideshareUITests.xctest */;
+			productReference = B5416D6322100C4C00F1FE2B /* hackBU-RideshareUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -219,7 +309,7 @@
 				Base,
 			);
 			mainGroup = B53138C1220F5E5C00D0ADF8;
-			productRefGroup = B53138CB220F5E5C00D0ADF8 /* Products */;
+			productRefGroup = B53138C1220F5E5C00D0ADF8;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -235,9 +325,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B59AC871220FFFBD00F13D1B /* icons8-map-pin-90.png in Resources */,
 				B53138DB220F5E5C00D0ADF8 /* LaunchScreen.storyboard in Resources */,
+				B59AC84D220F945E00F13D1B /* icons8-marker-100.png in Resources */,
+				B59AC84B220F93E200F13D1B /* niteride-map.txt in Resources */,
+				B59AC857220FA32300F13D1B /* icons8-location-filled-500.png in Resources */,
+				B59AC851220F97C800F13D1B /* style.json in Resources */,
+				B568855722108D9700B2E159 /* icons8-cycling-filled-100.png in Resources */,
+				B59AC85B220FAD5300F13D1B /* icons8-undo-filled-100.png in Resources */,
+				B59AC84F220F95BD00F13D1B /* icons8-region-filled-90.png in Resources */,
 				B53138D8220F5E5C00D0ADF8 /* Assets.xcassets in Resources */,
+				B59AC867220FC53B00F13D1B /* icons8-convertible-filled-100.png in Resources */,
+				B59AC86F220FFF3F00F13D1B /* icons8-marker-90-2.png in Resources */,
+				B59AC85D220FB48D00F13D1B /* icons8-map-editing-filled-100.png in Resources */,
+				B59AC85F220FB49A00F13D1B /* icons8-marker-100.png in Resources */,
+				B5313910220F8EAB00D0ADF8 /* icons8-steering-wheel-filled-100.png in Resources */,
+				B59AC869220FC5B000F13D1B /* icons8-traffic-jam-filled-100.png in Resources */,
+				B59AC855220F9FB400F13D1B /* locations.txt in Resources */,
+				B59AC853220F993D00F13D1B /* icons8-menu-100.png in Resources */,
+				B531390E220F8CA000D0ADF8 /* icons8-lock-100.png in Resources */,
+				B5416D67221025B700F1FE2B /* icons8-garage-filled-100.png in Resources */,
 				B53138D3220F5E5C00D0ADF8 /* Main.storyboard in Resources */,
+				B531390D220F8CA000D0ADF8 /* icons8-paper-plane-filled-100.png in Resources */,
+				B59AC86D220FDA9700F13D1B /* icons8-christmas-star-filled-100.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,14 +367,75 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2B555F428FA11BD42220CC56 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-hackBU-Rideshare-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5A49263D03A2528D7E82DD52 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-hackBU-Rideshare/Pods-hackBU-Rideshare-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-hackBU-Rideshare/Pods-hackBU-Rideshare-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		86322478E41A79FB7D2FCD7A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-hackBU-Rideshare/Pods-hackBU-Rideshare-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		B53138C6220F5E5C00D0ADF8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5416D652210147000F1FE2B /* RideListViewController.swift in Sources */,
+				B59AC859220FA93300F13D1B /* SignUpViewController.swift in Sources */,
+				B59AC86B220FD3BB00F13D1B /* SearchCell.swift in Sources */,
+				B59AC861220FB5FB00F13D1B /* SearchViewController.swift in Sources */,
 				B53138D6220F5E5C00D0ADF8 /* hackBU_Rideshare.xcdatamodeld in Sources */,
 				B53138D0220F5E5C00D0ADF8 /* ViewController.swift in Sources */,
 				B53138CE220F5E5C00D0ADF8 /* AppDelegate.swift in Sources */,
+				B5313909220F745300D0ADF8 /* Globals.swift in Sources */,
+				B5313907220F6B3D00D0ADF8 /* MapViewController.swift in Sources */,
+				B5416D612210082900F1FE2B /* RideViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +443,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B53138E6220F5E5C00D0ADF8 /* hackBU_RideshareTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +450,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B53138F1220F5E5C00D0ADF8 /* hackBU_RideshareUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,6 +597,7 @@
 		};
 		B53138F6220F5E5C00D0ADF8 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BED7FCFE3D64FA39DA27299C /* Pods-hackBU-Rideshare.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -443,6 +613,7 @@
 		};
 		B53138F7220F5E5C00D0ADF8 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B0D82280F5E490EB51A130B0 /* Pods-hackBU-Rideshare.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
