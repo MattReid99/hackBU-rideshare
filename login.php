@@ -17,9 +17,14 @@
 	$result = $db->query($sql);
 	
 	if($result->num_rows == 1){
-		echo "true";
+		
+		$sql = "Select ID, Name, isDriver, email from users u where u.email = '" . $_REQUEST['email'] ."'";
+		$result = $db->query($sql);
+		$row = $result->fetch_assoc();
+
+		echo json_encode(array( "ID" => intval($row['ID'], "ISDRIVER" => $row["ISDRIVER"], "NAME" => $row['NAME'], "EMAIL" => $row["EMAIL"])));
 	}else{
-		echo "false";
+		echo json_encode(array( "ID" => -1));
 	}
 	
 
