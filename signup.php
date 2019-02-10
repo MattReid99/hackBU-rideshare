@@ -11,7 +11,7 @@ include("databaseConnect.php");
 
 
 		$prepare = $db->prepare("INSERT INTO users (name, email, password) VALUES (?, ?, ?)");
-		$prepare->bind_param($_REQUEST['name'], $_REQUEST['email'], $_REQUEST['password']);
+		$prepare->bind_param("sss",$_REQUEST['name'], $_REQUEST['email'], $_REQUEST['password']);
 
 		$prepare->execute();
 		$prepare->close();
