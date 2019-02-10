@@ -1,0 +1,33 @@
+.navbar-brand {
+	font-family: 'Major Mono Display', monospace;
+	font-size: 2.5em;
+}
+
+.navbar-dark {
+	background-color: black;
+}
+
+body {
+	background-color: black;
+}
+
+.jumbotron {
+	min-height: 600px;
+	color: #ffff4d;
+	text-shadow:2px 2px #333333;
+	background: url("https://images.unsplash.com/photo-1533927361641-06ec97c01dfe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80") center left/ cover no-repeat;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+.nav-item {
+	text-align: right;
+}
+
+.btn {
+	color: #ffff4d;
+	background-color: #3a3a3a;
+	text-shadow: 0px 0px;
+}
+.applink {
+	margin-top: 10em;
+}
