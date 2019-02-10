@@ -22,7 +22,7 @@
 		$result = $db->query($sql);
 		$row = $result->fetch_assoc();
 
-		echo json_encode(array( "ID" => intval($row['ID']), "ISDRIVER" => $row["isDriver"], "NAME" => $row['Name'], "EMAIL" => $row["email"]));
+		echo json_encode(array( "ID" => intval($row['ID']), "ISDRIVER" => intval($row["isDriver"]), "NAME" => $row['Name'], "EMAIL" => $row["email"]));
 	}else{
 		echo json_encode(array( "ID" => -1));
 	}

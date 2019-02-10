@@ -16,6 +16,7 @@ include("databaseConnect.php");
 		$prepare->execute();
 		$prepare->close();
 		$db->close();
+		echo "true";
 	}else{
 
 		echo "false";

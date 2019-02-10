@@ -1,0 +1,1325 @@
+[09-Feb-2019 21:03:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect() in /home/i634025rimgd/public_html/hackBU/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/login.php on line 7
+[09-Feb-2019 21:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect() in /home/i634025rimgd/public_html/hackBU/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/login.php on line 7
+[09-Feb-2019 21:08:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect() in /home/i634025rimgd/public_html/hackBU/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/login.php on line 7
+[09-Feb-2019 21:09:45 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 21:16:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'mreid'@'localhost' to database 'HackBU' in /home/i634025rimgd/public_html/hackBU/databaseConnect.php on line 21
+[09-Feb-2019 21:16:46 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 21:16:46 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 21:16:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/i634025rimgd/public_html/hackBU/login.php on line 17
+[09-Feb-2019 21:16:46 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/login.php on line 19
+[09-Feb-2019 21:16:46 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/i634025rimgd/public_html/hackBU/login.php on line 26
+[09-Feb-2019 21:18:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'jraskin3'@'localhost' (using password: YES) in /home/i634025rimgd/public_html/hackBU/databaseConnect.php on line 21
+[09-Feb-2019 21:18:15 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 21:18:15 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 21:18:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/i634025rimgd/public_html/hackBU/login.php on line 17
+[09-Feb-2019 21:18:15 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/login.php on line 19
+[09-Feb-2019 21:18:15 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/i634025rimgd/public_html/hackBU/login.php on line 26
+[09-Feb-2019 21:20:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'jraskind'@'localhost' (using password: YES) in /home/i634025rimgd/public_html/hackBU/databaseConnect.php on line 21
+[09-Feb-2019 21:20:53 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 21:20:53 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 21:20:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/i634025rimgd/public_html/hackBU/login.php on line 17
+[09-Feb-2019 21:20:53 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/login.php on line 19
+[09-Feb-2019 21:20:53 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/i634025rimgd/public_html/hackBU/login.php on line 26
+[09-Feb-2019 21:40:18 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 21:40:18 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 21:40:18 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/login.php on line 19
+[09-Feb-2019 21:40:27 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 21:40:27 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 21:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/login.php on line 19
+[09-Feb-2019 21:48:31 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 21:48:31 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 21:48:31 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/login.php on line 19
+[09-Feb-2019 22:00:12 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 22:00:12 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 22:27:35 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 22:27:35 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 22:30:47 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 22:30:47 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 22:32:03 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 22:32:03 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:06:56 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:06:56 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:07:55 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:07:55 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:08:06 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:08:06 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:10:35 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:10:35 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:23:41 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:23:41 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:30:29 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:30:29 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:31:37 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:31:37 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:33:18 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:33:18 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:33:48 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:33:48 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:33:50 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:33:50 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:33:52 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:33:52 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:33:57 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:33:57 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:33:57 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:33:57 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:34:28 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:34:28 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:35:01 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:35:01 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:35:41 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:35:41 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:36:10 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:36:10 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:36:45 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:36:45 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:38:59 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:38:59 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:39:01 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:39:01 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:39:06 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:39:06 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:39:25 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:39:25 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:39:27 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:39:27 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:41:29 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:41:29 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:41:34 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:41:34 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:41:43 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:41:43 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:41:49 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:41:49 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:41:50 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:41:50 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[09-Feb-2019 23:43:06 UTC] PHP Notice:  Undefined index: email in /home/i634025rimgd/public_html/hackBU/login.php on line 14
+[09-Feb-2019 23:43:06 UTC] PHP Notice:  Undefined index: password in /home/i634025rimgd/public_html/hackBU/login.php on line 15
+[10-Feb-2019 00:54:36 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/i634025rimgd/public_html/hackBU/signup.php on line 14
+[10-Feb-2019 01:49:37 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/i634025rimgd/public_html/hackBU/login.php on line 25
+[10-Feb-2019 01:50:55 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/i634025rimgd/public_html/hackBU/login.php on line 25
+[10-Feb-2019 01:52:23 UTC] PHP Notice:  Undefined index: ISDRIVER in /home/i634025rimgd/public_html/hackBU/login.php on line 25
+[10-Feb-2019 01:52:23 UTC] PHP Notice:  Undefined index: NAME in /home/i634025rimgd/public_html/hackBU/login.php on line 25
+[10-Feb-2019 01:52:23 UTC] PHP Notice:  Undefined index: EMAIL in /home/i634025rimgd/public_html/hackBU/login.php on line 25
+[10-Feb-2019 09:31:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 15
+[10-Feb-2019 09:32:41 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 15
+[10-Feb-2019 09:34:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method databaseConnect::prepare() in /home/i634025rimgd/public_html/hackBU/addToQueue.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 9
+[10-Feb-2019 09:37:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method databaseConnect::prepare() in /home/i634025rimgd/public_html/hackBU/addToQueue.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 9
+[10-Feb-2019 09:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method databaseConnect::prepare() in /home/i634025rimgd/public_html/hackBU/addToQueue.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 9
+[10-Feb-2019 09:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method databaseConnect::prepare() in /home/i634025rimgd/public_html/hackBU/addToQueue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 8
+[10-Feb-2019 09:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method databaseConnect::prepare() in /home/i634025rimgd/public_html/hackBU/addToQueue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 8
+[10-Feb-2019 09:43:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method databaseConnect::prepare() in /home/i634025rimgd/public_html/hackBU/addToQueue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 8
+[10-Feb-2019 09:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method databaseConnect::prepare() in /home/i634025rimgd/public_html/hackBU/addToQueue.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 10
+[10-Feb-2019 10:04:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 12
+[10-Feb-2019 10:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 10:16:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 10:17:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 12
+[10-Feb-2019 10:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 12
+[10-Feb-2019 10:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 12
+[10-Feb-2019 10:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 12
+[10-Feb-2019 10:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 12
+[10-Feb-2019 10:29:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ')' in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 11
+[10-Feb-2019 10:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 13
+[10-Feb-2019 10:34:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 15
+[10-Feb-2019 10:34:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/addToQueue.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/addToQueue.php on line 15
+[10-Feb-2019 15:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 15:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 15:50:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:50:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 15:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:04:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:06:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:08:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 10
+[10-Feb-2019 16:09:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 16:10:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 16:10:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:10:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:11:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:12:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:12:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:12:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:12:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 16:14:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 16:14:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:14:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:14:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:14:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:17:36 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:17:41 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:17:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:17:46 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:17:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:17:51 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:17:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:21:20 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:21:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:21:25 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:21:30 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:21:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:21:35 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:21:40 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:21:45 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:21:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:21:50 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:21:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:21:55 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:21:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:00 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:05 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:10 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:15 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:20 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:25 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:30 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:35 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:41 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:45 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:50 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:50 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:22:55 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:22:55 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:23:00 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:23:00 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:23:05 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:23:05 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:23:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:23:10 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:23:10 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:23:15 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:23:15 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:24:04 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:04 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:24:09 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:09 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:24:14 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:14 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:24:19 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:19 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:24:24 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:24 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:24:29 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:29 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:24:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:34 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:34 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:24:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:39 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:39 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:24:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:44 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:44 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:49 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:49 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:54 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:54 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:24:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:24:59 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:24:59 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:24:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:04 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:04 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:09 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:09 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:14 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:14 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:19 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:19 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:25:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:24 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:24 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:25:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:35 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:35 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:41 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:41 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:25:46 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:46 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:25:51 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:51 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:25:56 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:25:56 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:25:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:01 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:01 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:06 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:06 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:11 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:11 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:16 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:16 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:21 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:21 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:26 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:26 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:31 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:31 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:36 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:36 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:41 UTC] PHP Notice:  Undefined index: userID in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 9
+[10-Feb-2019 16:26:41 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:46 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:51 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:26:56 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:26:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:27:01 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:27:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:27:06 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:27:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:27:11 UTC] PHP Notice:  Trying to get property of non-object in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 16:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 13
+[10-Feb-2019 16:27:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 16:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:29:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:29:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:29:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:31:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:31:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 16:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/retrieveQueuedRiders.php on line 10
+[10-Feb-2019 16:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/login.php on line 23
+[10-Feb-2019 16:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/login.php on line 23
+[10-Feb-2019 17:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:09:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:09:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:09:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:09:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:11:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:11:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 11
+[10-Feb-2019 17:13:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:13:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:14:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:14:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:16:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:19:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:20:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:20:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:20:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
+[10-Feb-2019 17:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/i634025rimgd/public_html/hackBU/rideStatus.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/i634025rimgd/public_html/hackBU/rideStatus.php on line 12
